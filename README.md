@@ -1,1 +1,2 @@
-# InDesign_development_resources
+# InDesign Development Resources
+Collection of Resources for InDesign Development
